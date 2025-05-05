@@ -17,6 +17,22 @@ Wireshark Packet Capture and Filter Usage
 
 ## OUTPUT:
 Captured Packets with Protocol Analysis and Detailed Packet Info
+![image](https://github.com/user-attachments/assets/68909c80-46ca-4dd8-b656-7c8731da1802)
+
+## Start Capturing Packets
+• Click the blue shark fin icon or double-click the interface.
+
+• Wireshark will start capturing all real-time traffic.
+
+![image](https://github.com/user-attachments/assets/00b8dae1-f77e-40d1-87cd-ed47f4982a9d)
+
+## Apply Filters to Focus on Specific Traffic
+
+Use filters like http, ip.addr == 192.168.1.1, or tcp.port == 80 in the top filter bar to narrow down results.
+
+![image](https://github.com/user-attachments/assets/db736275-14bb-476d-8c65-77c13caf6e98)
+
+
 
 ## RESULT:
 Network traffic was successfully captured and analyzed using Wireshark.
